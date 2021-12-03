@@ -1,0 +1,7 @@
+a = input("请输入a的值：")
+b = input("请输入b的值：")
+c = input("请输入c的值：")
+a1 = int(a)
+b1 = int(b)
+c1 = int(c)
+print(sorted([a1,b1,c1]))
